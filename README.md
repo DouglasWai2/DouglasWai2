@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Douglas</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglaswai2&label=Profile%20views&color=0e75b6&style=flat" alt="douglaswai2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglaswai2" alt="douglaswai2" /></a> </p>
 
-- 🔭 I’m currently working on [WebStore](https://webstore-app.shop)
+- 🔭 I’m currently working on [Cashew Sistema](https://cashewapp.com.br)
 
-- 🌱 I’m currently learning **React and node.js**
+- 🌱 I’m currently learning **React and typescript**
 
 - 🤝 I’m looking for help with **FullStack development**
 
